@@ -34,6 +34,7 @@
     "app-root-path": "^3.0.0",
     "async-exit-hook": "^2.0.1",
     "bluebird": "^3.7.2",
+    "celebrate": "^14.0.0",
     "clf-date": "^0.2.0",
     "connect-redis": "^6.0.0",
     "cors": "^2.8.5",
